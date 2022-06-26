@@ -1,2 +1,2 @@
 # pag-inicial-instagram
-Criando página inicial do Instagram
+Criando página inicial do Instagram.
